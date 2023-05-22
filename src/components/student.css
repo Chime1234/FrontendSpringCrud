@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+    margin-top: 50px;
+}
+@media only screen and (max-width: 768px) {
+
+    input {
+        width: 50%;
+      }
+   div.container{
+    width: auto;
+   }
+}
